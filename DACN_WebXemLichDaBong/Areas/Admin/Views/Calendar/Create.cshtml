@@ -1,0 +1,102 @@
+﻿<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.full.min.js"></script>
+
+@using DACN_WebXemLichDaBong.Areas.Admin.Models;
+@model LichThiDauViewModel;
+
+<div class="container tm-mt-big tm-mb-big">
+    <div class="row">
+        <div class="col-xl-9 col-lg-10 col-md-12 col-sm-12 mx-auto">
+            <div class="tm-bg-primary-dark tm-block tm-block-h-auto">
+                <div class="row">
+                    <a style=" margin-left: 400px;" href="/Admin/Calendar/Index">Hủy</a>
+                    <div class="col-12">
+                        <h2 class="tm-block-title d-inline-block">Thêm Lịch Thi Đấu Ngày Hôm Nay</h2>
+                    </div>
+                </div>
+                <div class="row tm-edit-product-row">
+                    <div class="col-xl-6 col-lg-6 col-md-12">
+                        <form method="post" asp-controller="Calendar" asp-action="Create" class="tm-edit-product-form">
+                            <div class="form-group mb-3">
+                                <b> Hình Thức Thi Đấu </b>
+                                <select name="HinhThucThiDauId">
+                                    <option selected="selected">--Chọn Hình Thức Thi Đấu--</option>
+                                    @foreach (var httd in Model.HinhThucThiDauAvailable)
+                                    {
+                                        <option value="@httd.HinhThucThiDauId">@httd.TenHinhThucThiDau</option>
+                                    }
+                                </select>
+                            </div >
+                            <div class="form-group mb-3">
+                                <b> Giải Đấu </b>
+                                <select name="GiaiDauId" id="GiaiDau" onchange="GetDoiBong(this.value)">
+                                    <option selected="selected">--Chọn Giải Đấu--</option>
+                                    @foreach (var gd in Model.GiaiDauAvailable)
+                                    {
+                                        <option value="@gd.GiaiDauId">@gd.TenGiaiDau</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="form-group mb-3">
+                                <b> Đội Bóng Bên Trái </b>
+                                <select name="DoiBenTraiId" id="DoiBongBenTrai">
+                                    <option selected="selected">--Chọn Đội Bóng--</option>
+                                </select>
+                            </div>
+                            <div class="form-group mb-3">
+                                <b> Đội Bóng Bên Phải </b>
+                                <select name="DoiBenPhaiId" id="DoiBongBenPhai">
+                                    <option selected="selected">--Chọn Đội Bóng--</option>
+                                </select>
+                            </div>
+                            <div class="form-group mb-3">
+                                <b>Thời Gian Thi Đấu</b><input id="ThoiGianThiDau" name="ThoiGianThiDau" type="text" autocomplete="off" required>
+                            </div>
+                            <div class="form-group mb-3">
+                                <b>Kết Thúc?</b><input name="IsKetThuc" type="checkbox" autocomplete="off">
+                            </div>
+                            <div class="form-group mb-3">
+                                <b>Tỷ Số</b><input name="Tyso" type="text" autocomplete="off">
+                            </div>
+                            <div class="form-group mb-3">
+                                <b>Sân Thi Đấu</b><input name="SanThiDau" type="text" autocomplete="off" required>
+                            </div>
+                            
+                    <div class="col-12">
+                        <button type="submit" class="btn btn-primary btn-block text-uppercase">Thêm Lịch Đấu</button>
+                    </div>
+                    </form>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    function GetDoiBong(GiaiDauId) {
+        console.log(GiaiDauId)
+        $.ajax({
+            url: '/Admin/Calendar/GetDoiBong?GiaiDauId=' + GiaiDauId,
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                console.log(data);
+                $('#DoiBongBenTrai').empty();
+                $('#DoiBongBenTrai').append("<option selected=" + 'selected' + ">--Chọn Đội Bóng--</option>");
+                $.each(data, function (id, option) {
+                    $("#DoiBongBenTrai").append("<option value=" + option.doiBongId + ">" + option.tenDoiBong + "</option>")
+                })
+                $('#DoiBongBenPhai').empty();
+                $('#DoiBongBenPhai').append("<option selected=" + 'selected' + ">--Chọn Đội Bóng--</option>");
+                $.each(data, function (id, option) {
+                    $("#DoiBongBenPhai").append("<option value=" + option.doiBongId + ">" + option.tenDoiBong + "</option>")
+                })
+            }
+        });
+    };
+    $(function () {
+        $("#ThoiGianThiDau").datetimepicker();
+    });
+</script>
+

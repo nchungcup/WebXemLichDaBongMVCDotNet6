@@ -1,0 +1,30 @@
+﻿@using DACN_WebXemLichDaBong.Areas.Admin.Models;
+@model IList<LichThiDauViewModel>
+
+<div class="table-wrapper" style="color: black">
+    <table class="fl-table">
+        <tr>
+            <th>Đội</th>
+            <th>Tỷ số</th>
+            <th>Đội</th>
+            <th>Giải đấu</th>
+            <th>Hình Thức</th>
+            <th>Thời gian đấu</th>
+            <th>Sân đấu</th>
+            <th>Kết Thúc?</th>
+        </tr>
+        @foreach(var ltd in Model)
+        {
+        <tr>
+            <td><img style="width: 20px; height: 20px;" src="~/img/Doibong/@ltd.DoiBenTrai" /></td>
+            <td>@ltd.TySo</td>
+                <td><img style="width: 20px; height: 20px;" src="~/img/Doibong/@ltd.DoiBenPhai" /></td>
+            <td>@ltd.GiaiDau</td>
+            <td>@ltd.HinhThucThiDau</td>
+            <td>@ltd.ThoiGianThiDau</td>
+            <td>@ltd.SanThiDau</td>
+            <td>@ltd.IsKetThucText</td>
+        </tr>
+        }
+    </table>
+</div>
