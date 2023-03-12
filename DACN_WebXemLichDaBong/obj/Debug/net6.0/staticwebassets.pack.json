@@ -1,1159 +1,1159 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DACN_WebXemLichDaBong.bundle.scp.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DACN_WebXemLichDaBong.bundle.scp.css",
       "PackagePath": "staticwebassets\\DACN_WebXemLichDaBong.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\.DS_Store",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\.DS_Store",
       "PackagePath": "staticwebassets\\SigninSignup\\css\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\SigninSignup\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\.DS_Store",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\.DS_Store",
       "PackagePath": "staticwebassets\\SigninSignup\\css\\bootstrap\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\_media.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\_media.css",
       "PackagePath": "staticwebassets\\SigninSignup\\css\\bootstrap\\_media.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\mixins\\.DS_Store",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\mixins\\.DS_Store",
       "PackagePath": "staticwebassets\\SigninSignup\\css\\bootstrap\\mixins\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\mixins\\_border-radius.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\mixins\\_border-radius.css",
       "PackagePath": "staticwebassets\\SigninSignup\\css\\bootstrap\\mixins\\_border-radius.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\mixins\\_screen-reader.css",
       "PackagePath": "staticwebassets\\SigninSignup\\css\\bootstrap\\mixins\\_screen-reader.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\mixins\\_visibility.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\mixins\\_visibility.css",
       "PackagePath": "staticwebassets\\SigninSignup\\css\\bootstrap\\mixins\\_visibility.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\bootstrap\\utilities\\_stretched-link.css",
       "PackagePath": "staticwebassets\\SigninSignup\\css\\bootstrap\\utilities\\_stretched-link.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\style.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\css\\style.css",
       "PackagePath": "staticwebassets\\SigninSignup\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\fonts\\.DS_Store",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\fonts\\.DS_Store",
       "PackagePath": "staticwebassets\\SigninSignup\\fonts\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\images\\.DS_Store",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\images\\.DS_Store",
       "PackagePath": "staticwebassets\\SigninSignup\\images\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\images\\background.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\images\\background.jpg",
       "PackagePath": "staticwebassets\\SigninSignup\\images\\background.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\js\\.DS_Store",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\js\\.DS_Store",
       "PackagePath": "staticwebassets\\SigninSignup\\js\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\SigninSignup\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\js\\jquery.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\SigninSignup\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\js\\main.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\js\\main.js",
       "PackagePath": "staticwebassets\\SigninSignup\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\js\\popper.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\js\\popper.js",
       "PackagePath": "staticwebassets\\SigninSignup\\js\\popper.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\.DS_Store",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\.DS_Store",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\.DS_Store",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\.DS_Store",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_alert.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_alert.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_badge.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_badge.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_breadcrumb.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_button-group.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_button-group.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_buttons.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_buttons.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_card.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_card.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_carousel.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_carousel.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_close.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_close.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_code.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_code.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_code.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_custom-forms.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_custom-forms.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_custom-forms.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_dropdown.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_dropdown.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_forms.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_forms.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_functions.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_functions.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_grid.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_grid.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_images.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_images.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_input-group.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_input-group.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_jumbotron.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_jumbotron.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_jumbotron.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_list-group.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_list-group.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_media.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_media.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_media.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_mixins.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_mixins.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_modal.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_modal.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_nav.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_nav.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_navbar.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_navbar.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_pagination.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_pagination.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_popover.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_popover.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_print.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_print.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_print.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_progress.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_progress.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_reboot.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_reboot.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_root.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_root.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_spinners.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_spinners.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_tables.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_tables.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_toasts.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_toasts.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_tooltip.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_tooltip.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_transitions.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_transitions.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_type.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_type.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_utilities.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_utilities.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_variables.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\_variables.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\bootstrap.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\bootstrap.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_background-variant.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_background-variant.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_badge.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_badge.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_float.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_float.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_float.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_grid-framework.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_grid-framework.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_hover.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_hover.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_hover.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_image.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_nav-divider.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_nav-divider.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_screen-reader.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_size.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_size.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_size.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_table-row.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_table-row.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_text-hide.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_text-hide.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\mixins\\_visibility.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\mixins\\_visibility.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_align.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_align.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_align.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_background.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_background.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_background.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_borders.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_borders.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_borders.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_clearfix.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_display.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_display.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_display.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_embed.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_embed.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_embed.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_flex.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_flex.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_flex.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_float.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_float.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_float.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_overflow.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_overflow.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_position.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_position.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_screenreaders.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_screenreaders.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_shadows.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_shadows.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_sizing.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_sizing.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_spacing.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_spacing.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_text.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_text.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_text.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\utilities\\_visibility.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\utilities\\_visibility.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\bootstrap\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\bootstrap\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\style.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\SigninSignup\\scss\\style.scss",
       "PackagePath": "staticwebassets\\SigninSignup\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\css\\fontawesome.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\admin\\css\\fontawesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\css\\templatemo-style.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\css\\templatemo-style.css",
       "PackagePath": "staticwebassets\\admin\\css\\templatemo-style.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\arrow-down.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\arrow-down.png",
       "PackagePath": "staticwebassets\\admin\\img\\arrow-down.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\avatar.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\avatar.png",
       "PackagePath": "staticwebassets\\admin\\img\\avatar.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\check-mark.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\check-mark.png",
       "PackagePath": "staticwebassets\\admin\\img\\check-mark.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\notification-01.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\notification-01.jpg",
       "PackagePath": "staticwebassets\\admin\\img\\notification-01.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\notification-02.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\notification-02.jpg",
       "PackagePath": "staticwebassets\\admin\\img\\notification-02.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\notification-03.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\notification-03.jpg",
       "PackagePath": "staticwebassets\\admin\\img\\notification-03.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\product-image.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\img\\product-image.jpg",
       "PackagePath": "staticwebassets\\admin\\img\\product-image.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\AUTHORS.txt",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\AUTHORS.txt",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\AUTHORS.txt"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\LICENSE.txt",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\LICENSE.txt",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\external\\jquery\\jquery.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\external\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\external\\jquery\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\index.html",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\index.html",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\index.html"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.css",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.js",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.css",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.structure.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.structure.min.css",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.structure.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.css",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.theme.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\jquery-ui.theme.min.css",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\jquery-ui.theme.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\package.json",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\jquery-ui-datepicker\\package.json",
       "PackagePath": "staticwebassets\\admin\\jquery-ui-datepicker\\package.json"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\js\\Chart.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\js\\Chart.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\js\\jquery-3.3.1.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\js\\moment.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\js\\tooplate-scripts.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\js\\tooplate-scripts.js",
       "PackagePath": "staticwebassets\\admin\\js\\tooplate-scripts.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\admin\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\admin\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\css\\templatemo-style.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\css\\templatemo-style.css",
       "PackagePath": "staticwebassets\\css\\templatemo-style.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\LICENSE.txt",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\LICENSE.txt",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\css\\all.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\css\\all.min.css",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\css\\all.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\fontawesome-5.5\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\fontawesome-5.5\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\Doibong\\Barcelona.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\Doibong\\Barcelona.png",
       "PackagePath": "staticwebassets\\img\\Doibong\\Barcelona.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\Doibong\\RealMadrid.png",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\Doibong\\RealMadrid.png",
       "PackagePath": "staticwebassets\\img\\Doibong\\RealMadrid.png"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\Bundesliga.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\Bundesliga.jpg",
       "PackagePath": "staticwebassets\\img\\GiaiDau\\Bundesliga.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\CupnhavuaTayBanNha.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\CupnhavuaTayBanNha.jpg",
       "PackagePath": "staticwebassets\\img\\GiaiDau\\CupnhavuaTayBanNha.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\LaLiga.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\LaLiga.jpg",
       "PackagePath": "staticwebassets\\img\\GiaiDau\\LaLiga.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\Ligue 1.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\Ligue 1.jpg",
       "PackagePath": "staticwebassets\\img\\GiaiDau\\Ligue 1.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\Premier League.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\Premier League.jpg",
       "PackagePath": "staticwebassets\\img\\GiaiDau\\Premier League.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\Serie A.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\Serie A.jpg",
       "PackagePath": "staticwebassets\\img\\GiaiDau\\Serie A.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\UEFA Champions League.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\GiaiDau\\UEFA Champions League.jpg",
       "PackagePath": "staticwebassets\\img\\GiaiDau\\UEFA Champions League.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\background.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\background.jpg",
       "PackagePath": "staticwebassets\\img\\background.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-img-01.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-img-01.jpg",
       "PackagePath": "staticwebassets\\img\\gallery-img-01.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-img-02.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-img-02.jpg",
       "PackagePath": "staticwebassets\\img\\gallery-img-02.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-img-03.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-img-03.jpg",
       "PackagePath": "staticwebassets\\img\\gallery-img-03.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-img-04.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-img-04.jpg",
       "PackagePath": "staticwebassets\\img\\gallery-img-04.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-img-05.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-img-05.jpg",
       "PackagePath": "staticwebassets\\img\\gallery-img-05.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-img-06.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-img-06.jpg",
       "PackagePath": "staticwebassets\\img\\gallery-img-06.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-tn-01.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-tn-01.jpg",
       "PackagePath": "staticwebassets\\img\\gallery-tn-01.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-tn-02.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-tn-02.jpg",
       "PackagePath": "staticwebassets\\img\\gallery-tn-02.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-tn-03.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-tn-03.jpg",
       "PackagePath": "staticwebassets\\img\\gallery-tn-03.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-tn-04.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-tn-04.jpg",
       "PackagePath": "staticwebassets\\img\\gallery-tn-04.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-tn-05.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-tn-05.jpg",
       "PackagePath": "staticwebassets\\img\\gallery-tn-05.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-tn-06.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\gallery-tn-06.jpg",
       "PackagePath": "staticwebassets\\img\\gallery-tn-06.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\ronaldovsmessi.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\ronaldovsmessi.jpg",
       "PackagePath": "staticwebassets\\img\\ronaldovsmessi.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\the-town-01.jpg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\img\\the-town-01.jpg",
       "PackagePath": "staticwebassets\\img\\the-town-01.jpg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\js\\jquery-1.9.1.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\js\\jquery-1.9.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-1.9.1.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\js\\jquery.singlePageNav.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\js\\jquery.singlePageNav.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.singlePageNav.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\magnific-popup\\jquery.magnific-popup.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\magnific-popup\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\magnific-popup\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\magnific-popup\\magnific-popup.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\magnific-popup\\magnific-popup.css",
       "PackagePath": "staticwebassets\\magnific-popup\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\ajax-loader.gif",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\slick\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\config.rb",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\config.rb",
       "PackagePath": "staticwebassets\\slick\\config.rb"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\fonts\\slick.eot",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\fonts\\slick.eot",
       "PackagePath": "staticwebassets\\slick\\fonts\\slick.eot"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\fonts\\slick.svg",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\fonts\\slick.svg",
       "PackagePath": "staticwebassets\\slick\\fonts\\slick.svg"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\fonts\\slick.ttf",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\fonts\\slick.ttf",
       "PackagePath": "staticwebassets\\slick\\fonts\\slick.ttf"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\fonts\\slick.woff",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\fonts\\slick.woff",
       "PackagePath": "staticwebassets\\slick\\fonts\\slick.woff"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick-theme.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick-theme.css",
       "PackagePath": "staticwebassets\\slick\\slick-theme.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick-theme.less",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick-theme.less",
       "PackagePath": "staticwebassets\\slick\\slick-theme.less"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick-theme.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick-theme.scss",
       "PackagePath": "staticwebassets\\slick\\slick-theme.scss"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick.css",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick.css",
       "PackagePath": "staticwebassets\\slick\\slick.css"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick.js",
       "PackagePath": "staticwebassets\\slick\\slick.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick.less",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick.less",
       "PackagePath": "staticwebassets\\slick\\slick.less"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick.min.js",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick.min.js",
       "PackagePath": "staticwebassets\\slick\\slick.min.js"
     },
     {
-      "Id": "C:\\Users\\Windows 10\\Downloads\\DACN-WebXemLichDaBong\\DACN_WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick.scss",
+      "Id": "C:\\Users\\Windows 10\\Downloads\\WebXemLichDaBong\\DACN_WebXemLichDaBong\\wwwroot\\slick\\slick.scss",
       "PackagePath": "staticwebassets\\slick\\slick.scss"
     },
     {
