@@ -87,6 +87,8 @@ namespace DACN_WebXemLichDaBong.Controllers
                 {
                     TaiKhoan = _account.TaiKhoan,
                     MatKhau = _account.MatKhau,
+                    LoaiTaiKhoan = 2,
+                    LanDangNhapGanNhat = DateTime.Now,
                     Email = _account.Email,
                     MucDoDangNhap = 0
                 };
