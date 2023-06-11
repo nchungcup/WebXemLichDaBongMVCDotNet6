@@ -1,0 +1,213 @@
+﻿@using DACN_WebXemLichDaBong.Areas.Admin.Models;
+@model List<LichThiDauViewModel>;
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.26.0/moment.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.full.min.js"></script>
+
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,700' rel='stylesheet' type='text/css'>
+
+<style>
+    .table-container {
+        display: flex;
+        justify-content: space-between;
+    }
+    .table-container table {
+        width: 100%;
+        table-layout: fixed;
+    }
+    .table-container td, .table-container th {
+        width: calc(100% / 6);
+    }
+
+    .hidden-field {
+        position: absolute;
+        left: -9999px;
+    }
+
+</style>
+<section id="introduction" class="tm-section-pad-top" style=" height: 700px;">
+    <div class="container">
+        <div class="row">
+            <div style="text-align: center;" class="col-lg-12">
+                <div class="tm-intro-text-container">
+                    <div class=" table-container">
+                        <form id="myForm" method="post" class="tm-edit-product-form">
+                            <table id="myTable">
+                                <thead>
+                                    <tr>
+                                        <td>Hình thức thi đấu</td>
+                                        <td>Giải đấu</td>
+                                        <td>Đội bên trái</td>
+                                        <td>Đội bên phải</td>
+                                        <td>Thời gian</td>
+                                        <td>Sân thi đấu</td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                @foreach (var m in Model)
+                                {
+                                    <tr>
+                                        <td>
+                                            <select name="HinhThucThiDauId" id="HinhThucThiDau" onchange="GetAvailableHinhThuc(this)">
+                                            <option value="@m.HinhThucThiDauId" selected="selected">@m.HinhThucThiDau</option>
+                                            @foreach (var httd in m.HinhThucThiDauAvailable)
+                                            {
+                                                <option value="@httd.HinhThucThiDauId">@httd.TenHinhThucThiDau</option>
+                                            }
+                                            </select>
+                                        </td>
+                                        <td>
+                                            <select name="GiaiDauId" class="GiaiDau" onchange="GetDoiBong(this)">
+                                                <option value="@m.GiaiDauId" selected="selected">@m.GiaiDau</option>
+                                                @foreach (var gd in m.GiaiDauAvailable)
+                                                {
+                                                    <option value="@gd.GiaiDauId">@gd.TenGiaiDau</option>
+                                                }
+                                            </select>
+                                        </td>
+                                        <td>
+                                            <select name="DoiBenTraiId" class="DoiBongBenTrai">
+                                                <option value="@m.DoiBenTraiId" selected="selected">@m.DoiBenTrai</option>
+                                            </select>
+                                        </td>
+                                        <td>
+                                            <select name="DoiBenPhaiId" class="DoiBongBenPhai">
+                                                <option value="@m.DoiBenPhaiId" selected="selected">@m.DoiBenPhai</option>
+                                            </select>
+                                        </td>
+                                        <td>
+                                            <input value="@m.ThoiGianThiDau" class="ThoiGianThiDau" name="ThoiGianThiDau" type="text" autocomplete="off" required>
+                                        </td>
+                                        <td>
+                                            <input value="@m.SanThiDau" name="SanThiDau" type="text" autocomplete="off" required>
+                                        </td>
+                                        <td>
+                                            <input type="checkbox" name="IsKetThuc" value="false" class="hidden-field">
+                                        </td>
+                                        <td>
+                                            <input type="text" name="TySo" value="0" class="hidden-field">
+                                        </td>
+                                    </tr>
+                                }
+                                </tbody>
+                            </table>
+                            <div class="col-6">
+                                <button type="submit" class="btn btn-primary btn-block text-uppercase">Xác nhận tạo</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<script>
+    function GetDoiBong(selectElement) {
+        var GiaiDauId = selectElement.value;
+        var $parentRow = $(selectElement).closest('tr');
+        var $doiBongBenTraiSelect = $parentRow.find(".DoiBongBenTrai");
+        var $doiBongBenPhaiSelect = $parentRow.find(".DoiBongBenPhai");
+
+        $.ajax({
+            url: '/Admin/Calendar/GetDoiBong?GiaiDauId=' + GiaiDauId,
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                console.log(data);
+                $doiBongBenTraiSelect.empty();
+                $doiBongBenTraiSelect.append("<option selected='selected'> --Chọn đội bóng-- </option>");
+                $doiBongBenPhaiSelect.empty();
+                $doiBongBenPhaiSelect.append("<option selected='selected'> --Chọn đội bóng-- </option>");
+                $.each(data, function (id, option) {
+                    $doiBongBenTraiSelect.append("<option value=" + option.doiBongId + ">" + option.tenDoiBong + "</option>")
+                })
+                $.each(data, function (id, option) {
+                    $doiBongBenPhaiSelect.append("<option value=" + option.doiBongId + ">" + option.tenDoiBong + "</option>")
+                })
+            }
+        });
+    };
+
+    function GetAvailableHinhThuc(HinhThucId) {
+        $.ajax({
+            url: '/Admin/Calendar/GetAvailableHinhThuc?hinhThucId=' + HinhThucId,
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                console.log(data);
+                $.each(data, function (id, option) {
+                    $("#HinhThucThiDau").append("<option value=" + option.hinhThucThiDauId + ">" + option.hinhThucThiDau + "</option>")
+                })
+            }
+        });
+    };
+
+    function GetAvailableGiaiDau(GiaiDauId) {
+        $.ajax({
+            url: '/Admin/Calendar/GetAvailableHinhThuc?giaiDauId=' + GiaiDauId,
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                console.log(data);
+                $('#GiaiDau').empty();
+                $.each(data, function (id, option) {
+                    $("#GiaiDau").append("<option value=" + option.giaiDauId + ">" + option.giaiDau + "</option>")
+                })
+            }
+        });
+    };
+
+    $(function () {
+        $(".ThoiGianThiDau").datetimepicker();
+    });
+
+    function convertTableToJson() {
+        var table = document.getElementById('myTable');
+        var rows = table.getElementsByTagName('tr');
+        var jsonData = [];
+
+        for (var i = 1; i < rows.length; i++) {
+            var row = rows[i];
+            var inputs = row.getElementsByTagName('input');
+            var selects = row.getElementsByTagName('select');
+            var rowData = {};
+            for (var j = 0; j < inputs.length; j++) {
+                var input = inputs[j];
+                rowData[input.name] = input.value;
+            }
+            for (var j = 0; j < selects.length; j++) {
+                var select = selects[j];
+                var selectedOption = select.options[select.selectedIndex];
+                rowData[select.name] = parseInt(selectedOption.value);
+            }
+
+            jsonData.push(rowData);
+        }
+        console.log(jsonData)
+        return JSON.stringify(jsonData);
+    }
+
+    var form = document.getElementById('myForm');
+
+    form.addEventListener('submit', function (e) {
+        e.preventDefault();
+
+        var jsonData = convertTableToJson();
+
+        fetch('/Admin/Calendar/ExcelCreatePost', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: jsonData
+        }).then(response => response.json()).then(data => {
+                // Xử lý kết quả từ action
+            }).catch(error => {
+                // Xử lý lỗi nếu có
+            });
+    });
+
+</script>

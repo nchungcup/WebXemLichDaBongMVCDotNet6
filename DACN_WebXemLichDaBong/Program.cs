@@ -1,11 +1,20 @@
-using DACN_WebXemLichDaBong.Models;
+﻿using DACN_WebXemLichDaBong.Models;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
+using Microsoft.AspNetCore.Mvc;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 var connection = builder.Configuration.GetConnectionString("Xemlichdabong"); builder.Services.AddControllersWithViews();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve;
+        // Cấu hình các tuỳ chọn khác của JSON.NET (nếu cần)
+    });
 builder.Services.AddMvc();
 builder.Services.AddDbContext<DataContext>(options => options.UseSqlServer(connection));
 builder.Services.AddDistributedMemoryCache();

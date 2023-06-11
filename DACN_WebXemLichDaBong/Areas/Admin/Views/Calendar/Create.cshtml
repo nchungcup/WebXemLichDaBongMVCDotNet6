@@ -30,7 +30,7 @@
                             </div >
                             <div class="form-group mb-3">
                                 <b> Giải Đấu </b>
-                                <select name="GiaiDauId" id="GiaiDau" onchange="GetDoiBong(this.value)">
+                                <select name="GiaiDauId" id="GiaiDau" onchange="GetDoiBong()">
                                     <option selected="selected">--Chọn Giải Đấu--</option>
                                     @foreach (var gd in Model.GiaiDauAvailable)
                                     {
@@ -41,13 +41,13 @@
                             <div class="form-group mb-3">
                                 <b> Đội Bóng Bên Trái </b>
                                 <select name="DoiBenTraiId" id="DoiBongBenTrai">
-                                    <option selected="selected">--Chọn Đội Bóng--</option>
+                                    <option value="0" selected="selected">--Chọn Đội Bóng--</option>
                                 </select>
                             </div>
                             <div class="form-group mb-3">
                                 <b> Đội Bóng Bên Phải </b>
                                 <select name="DoiBenPhaiId" id="DoiBongBenPhai">
-                                    <option selected="selected">--Chọn Đội Bóng--</option>
+                                    <option value="0" selected="selected">--Chọn Đội Bóng--</option>
                                 </select>
                             </div>
                             <div class="form-group mb-3">
@@ -74,27 +74,29 @@
     </div>
 </div>
 <script>
-    function GetDoiBong(GiaiDauId) {
-        console.log(GiaiDauId)
+    function GetDoiBong() {
+        var GiaiDauId = document.getElementById("GiaiDau").value;
+
         $.ajax({
             url: '/Admin/Calendar/GetDoiBong?GiaiDauId=' + GiaiDauId,
             type: 'GET',
             dataType: 'json',
             success: function (data) {
                 console.log(data);
-                $('#DoiBongBenTrai').empty();
-                $('#DoiBongBenTrai').append("<option selected=" + 'selected' + ">--Chọn Đội Bóng--</option>");
+                $("#DoiBongBenTrai").empty();
+                $("#DoiBongBenTrai").append("<option selected='selected'> --Chọn đội bóng-- </option>");
+                $("#DoiBongBenPhai").empty();
+                $("#DoiBongBenPhai").append("<option selected='selected'> --Chọn đội bóng-- </option>");
                 $.each(data, function (id, option) {
                     $("#DoiBongBenTrai").append("<option value=" + option.doiBongId + ">" + option.tenDoiBong + "</option>")
                 })
-                $('#DoiBongBenPhai').empty();
-                $('#DoiBongBenPhai').append("<option selected=" + 'selected' + ">--Chọn Đội Bóng--</option>");
                 $.each(data, function (id, option) {
                     $("#DoiBongBenPhai").append("<option value=" + option.doiBongId + ">" + option.tenDoiBong + "</option>")
                 })
             }
         });
     };
+
     $(function () {
         $("#ThoiGianThiDau").datetimepicker();
     });
