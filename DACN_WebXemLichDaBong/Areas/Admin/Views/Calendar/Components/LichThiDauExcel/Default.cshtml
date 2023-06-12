@@ -176,7 +176,7 @@
             var rowData = {};
             for (var j = 0; j < inputs.length; j++) {
                 var input = inputs[j];
-                rowData[input.name] = input.value;
+                rowData[input.name] = decodeURIComponent(input.value);
             }
             for (var j = 0; j < selects.length; j++) {
                 var select = selects[j];
@@ -208,6 +208,7 @@
             }).catch(error => {
                 // Xử lý lỗi nếu có
             });
+        console.log(jsonData)
     });
 
 </script>

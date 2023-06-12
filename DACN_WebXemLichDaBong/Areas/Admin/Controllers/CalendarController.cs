@@ -8,6 +8,7 @@ using System;
 using System.Text.Json;
 using Newtonsoft.Json.Linq;
 using System.Text.Json.Nodes;
+using static OfficeOpenXml.ExcelErrorValue;
 
 namespace DACN_WebXemLichDaBong.Areas.Admin.Controllers
 {
@@ -19,6 +20,7 @@ namespace DACN_WebXemLichDaBong.Areas.Admin.Controllers
         {
             _dataContext = dataContext;
         }
+
         public async Task<IActionResult> Index()
         {
             var ketThuc = _dataContext.LichThiDauModels.Where(l => l.ThoiGianThiDau.AddMinutes(130) <= DateTime.Now).ToList();
@@ -183,14 +185,12 @@ namespace DACN_WebXemLichDaBong.Areas.Admin.Controllers
                     }
                     if (worksheet.Cells[row, 4].Value != null)
                     {
-                        var excelDateTime = (DateTime)worksheet.Cells[row, 4].Value;
-                        var month = excelDateTime.Month < 10 ? "/0" + excelDateTime.Month : "/" + excelDateTime.Month;
-                        var day = excelDateTime.Day < 10 ? "/0" + excelDateTime.Day : "/" + excelDateTime.Day;
-                        var hour = excelDateTime.Hour < 10 ? "0" + excelDateTime.Hour : "" + excelDateTime.Hour;
-                        var minute = excelDateTime.Minute < 10 ? ":0" + excelDateTime.Minute : ":" + excelDateTime.Minute;
-                        var second = excelDateTime.Second < 10 ? ":0" + excelDateTime.Second : ":" + excelDateTime.Second;
-                        var dateTimeString = excelDateTime.Year + month + day + " " + hour + minute + second;
-                        thoiGianThiDau = DateTime.ParseExact(dateTimeString, "yyyy/MM/dd H:mm:ss", CultureInfo.InvariantCulture);
+                        var excelDateTime = worksheet.Cells[row, 4].Value.ToString();
+                        DateTime tg;
+                        if (DateTime.TryParse(excelDateTime, out tg))
+                        {
+                            thoiGianThiDau = tg;
+                        }
                     }
                     if (worksheet.Cells[row, 5].Value != null)
                     {
@@ -223,15 +223,59 @@ namespace DACN_WebXemLichDaBong.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> ExcelCreatePost(JsonArray jsonList)
+        public async Task<IActionResult> ExcelCreatePost([FromBody] JsonDocument[] jsonList)
         {
-            foreach (var jsonElement in jsonList)
+            foreach (var jsonDocument in jsonList)
             {
-                await _dataContext.LichThiDauModels.AddAsync(JsonSerializer.Deserialize<LichThiDauModel>(jsonElement));
+                var lichThiDau = new LichThiDauModel();
+                JsonElement value;
+                if (jsonDocument.RootElement.TryGetProperty("HinhThucThiDauId", out value))
+                {
+                    lichThiDau.HinhThucThiDauId = value.GetInt32();
+                }
+                if (jsonDocument.RootElement.TryGetProperty("GiaiDauId", out value))
+                {
+                    lichThiDau.GiaiDauId = value.GetInt32();
+                }
+                if (jsonDocument.RootElement.TryGetProperty("DoiBenTraiId", out value))
+                {
+                    lichThiDau.DoiBenTraiId = value.GetInt32();
+                }
+                if (jsonDocument.RootElement.TryGetProperty("DoiBenPhaiId", out value))
+                {
+                    lichThiDau.DoiBenPhaiId = value.GetInt32();
+                }
+                if (jsonDocument.RootElement.TryGetProperty("SanThiDau", out value))
+                {
+                    lichThiDau.SanThiDau = value.ToString();
+                }
+                if (jsonDocument.RootElement.TryGetProperty("TySo", out value))
+                {
+                    lichThiDau.TySo = value.ToString();
+                }
+                if (jsonDocument.RootElement.TryGetProperty("ThoiGianThiDau", out value))
+                {
+                    DateTime thoiGianThiDau;
+                    if (DateTime.TryParse(value.GetString(), out thoiGianThiDau))
+                    {
+                        lichThiDau.ThoiGianThiDau = thoiGianThiDau;
+                    }
+                }
+                if (jsonDocument.RootElement.TryGetProperty("IsKetThuc", out value))
+                {
+                    bool isKetThuc;
+                    if (bool.TryParse(value.GetString(), out isKetThuc))
+                    {
+                        lichThiDau.IsKetThuc = isKetThuc;
+                    }
+                }
+
+                await _dataContext.LichThiDauModels.AddAsync(lichThiDau);
                 await _dataContext.SaveChangesAsync();
             }
 
             return RedirectToAction("Index", "Calendar");
         }
+
     }
 }
