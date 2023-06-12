@@ -274,7 +274,7 @@ namespace DACN_WebXemLichDaBong.Areas.Admin.Controllers
                 await _dataContext.SaveChangesAsync();
             }
 
-            return RedirectToAction("Index", "Calendar");
+            return Json(new { redirectUrl = Url.Action("Index", "Calendar") });
         }
 
     }

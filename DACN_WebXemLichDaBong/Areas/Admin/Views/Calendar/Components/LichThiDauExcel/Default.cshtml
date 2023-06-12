@@ -204,9 +204,9 @@
             },
             body: jsonData
         }).then(response => response.json()).then(data => {
-                // Xử lý kết quả từ action
+            window.location.href = data.redirectUrl;
             }).catch(error => {
-                // Xử lý lỗi nếu có
+            console.error('Error:', error);
             });
         console.log(jsonData)
     });
