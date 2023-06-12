@@ -1,0 +1,48 @@
+﻿@model IFormFile
+<style>
+    h2, h6, p
+    {
+        color: white;
+    }
+</style>
+<h2>Import Excel</h2>
+<h6>Đảm bảo file có thứ tự các cột tương ứng</h6>
+<p>- Hình thức thi đấu</p>
+<p>- Đội bên trái</p>
+<p>- Đội bên phải</p>
+<p>- Thời gian thi đấu</p>
+<p>- Sân thi đấu</p>
+<p>- Giải đấu</p>
+
+<input id="myFileInput" type="file" name="file" accept=".xlsx, .xls" />
+<input onclick="uploadFile()" type="submit" value="Import" />
+<div id="lichthidau">
+    @await Component.InvokeAsync("LichThiDauExcel")
+</div>
+<script>
+    function uploadFile() {
+        const fileInput = document.getElementById("myFileInput");
+        const file = fileInput.files[0];
+        const formData = new FormData();
+        if (file) {
+            formData.append("file", file);
+        }
+
+        // Gọi invokeasync
+        $.ajax({
+            url: "/Admin/Calendar/ImportExcel",
+            method: "POST",
+            data: formData,
+            processData: false,
+            contentType: false,
+            success: function (result) {
+                $("#lichthidau").html(result);
+            },
+            error: function (xhr, status, error) {
+                console.log(xhr.responseText);
+            }
+        });
+    }
+</script>
+
+

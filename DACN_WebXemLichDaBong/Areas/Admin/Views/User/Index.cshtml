@@ -1,0 +1,47 @@
+﻿@using DACN_WebXemLichDaBong.Models;
+@model IList<Account>
+
+<style>
+.container{
+    width:117%;
+    max-width:117%;
+}
+</style>
+<div class="container mt-5">
+    <div class="row tm-content-row">
+        <div class="col-sm-12 col-md-12 col-lg-8 col-xl-8 tm-block-col">
+            <div class="tm-bg-primary-dark tm-block tm-block-products">
+                <div class="tm-product-table-container">
+                    <table class="table table-hover tm-table-small tm-product-table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Tài Khoản</th>
+                                <th scope="col">Email</th>
+                                <th scope="col">Mức Độ Đăng Nhập</th>
+                                <th scope="col">Lần Đăng Nhập Gần Nhất</th>
+                                <th scope="col">Xóa</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach(var acc in Model)
+                            {
+                            <tr>
+                                <td class="tm-product-name">@acc.TaiKhoan</td>
+                                <td>@acc.Email</td>
+                                <td>@acc.MucDoDangNhap</td>
+                                <td>@acc.LanDangNhapGanNhat</td>
+                                <td>
+                                    <a href="/User/Delete" class="tm-product-delete-link">
+                                        <i class="far fa-trash-alt tm-product-delete-icon"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+   

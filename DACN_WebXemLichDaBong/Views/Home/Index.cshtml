@@ -1,0 +1,182 @@
+﻿@using Microsoft.AspNetCore.Http; 
+@model IList<GiaiDauModel>
+<!-- Hero section -->
+<section id="hero" class="text-white tm-font-big tm-parallax">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-md tm-navbar">
+        <div class="container">
+            <div class="tm-next">
+                <a id="tmNav" href="#hero" class="navbar-brand">Soccer Calendar</a>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars navbar-toggler-icon"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                @if(Context.Session.GetString("Client") == null)
+                {
+                    <li class="nav-item">
+                        <a class="nav-link tm-nav-link" href="/SigninSignup/Signin">Đăng nhập</a>
+                    </li>
+                    <li id="tmNav" class="nav-item">
+                        <a class="nav-link tm-nav-link" href="#work">Các giải đấu</a>
+                    </li>
+                    <li id="tmNav" class="nav-item">
+                        <a class="nav-link tm-nav-link" href="#introduction">Lịch thi đấu</a>
+                    </li>
+                    <li id="tmNav" class="nav-item">
+                        <a class="nav-link tm-nav-link" href="#contact">Liên hệ</a>
+                    </li>
+                }
+                else
+                {
+                    <li class="nav-item">
+                        <a class="nav-link tm-nav-link" href="#" style="color: black">@Context.Session.GetString("Client")</a>
+                    </li>
+                    <li id="tmNav" class="nav-item">
+                        <a class="nav-link tm-nav-link" href="#work">Các giải đấu</a>
+                    </li>
+                    <li id="tmNav" class="nav-item">
+                        <a class="nav-link tm-nav-link" href="#introduction">Lịch thi đấu</a>
+                    </li>
+                    <li id="tmNav" class="nav-item">
+                        <a class="nav-link tm-nav-link" href="#contact">Liên hệ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link tm-nav-link" href="/SigninSignup/Logout" style="color: red">Đăng Xuất</a>
+                    </li>
+                }
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="text-center tm-hero-text-container">
+        <div class="tm-hero-text-container-inner">
+            <h2 class="tm-hero-title">Soccer Calender</h2>
+            <p class="tm-hero-subtitle">
+                Xem lịch thi đấu ngay
+            </p>
+        </div>
+    </div>
+
+    <div class="tm-next tm-intro-next">
+        <a href="#introduction" class="text-center tm-down-arrow-link">
+            <i class="fas fa-3x fa-caret-down tm-down-arrow"></i>
+        </a>
+    </div>
+</section>
+
+<!-- Giải đấu -->
+<section id="work" class="tm-section-pad-top">
+    <div class="container tm-container-gallery">
+        <div class="row">
+            <div class="text-center col-12">
+                <h2 class="tm-text-primary tm-section-title mb-4">Giải Đấu</h2>
+                <p class="mx-auto tm-work-description" style="color: black;">
+                    Các giải bóng đang thi đấu sẽ được cập nhật tại đây!
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="mx-auto tm-gallery-container">
+                    <div class="grid tm-gallery">
+                        @foreach (var giaidau in Model)
+                        {
+                            <a href="#introduction">
+                                <figure class="effect-honey tm-gallery-item" onclick='GiaiDau(@giaidau.GiaiDauId)'>
+                                    <img src="~/img/GiaiDau/@giaidau.AnhGiaiDau" alt="@giaidau.TenGiaiDau" class="img-fluid" style="height: 200px;">
+                                    <figcaption>
+                                        <h2><i><span>@giaidau.TenGiaiDau</span></i></h2>
+                                    </figcaption>
+                                </figure>
+                            </a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Lịch thi đấu -->
+<section id="introduction" class="tm-section-pad-top" style=" height: 700px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="tm-intro-text-container">
+                    <p style="color: black; text-align: center">Lịch thi đấu trong ngày</p>
+                    <div id="lichthidau">
+                    @await Component.InvokeAsync("LichThiDau")
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Contact -->
+<section id="contact" class="tm-section-pad-top tm-parallax-2">
+    <div class="container tm-container-contact">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="mb-4 tm-section-title">Liên Hệ</h2>
+                <div class="mb-5 tm-underline">
+                    <div class="tm-underline-inner"></div>
+                </div>
+                <p class="mb-5">
+                   Liên hệ với chúng tôi nếu bạn muốn góp ý phát triển website này!
+                </p>
+            </div>
+
+            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+                <a href="tel:0100200340" class="tm-contact-item-link">
+                    <i class="fas fa-3x fa-phone mr-4"></i>
+                    <span class="mb-0">010-020-0340</span>
+                </a>
+            </div>
+            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+                <a href="mailto:info@company.co" class="tm-contact-item-link">
+                    <i class="fas fa-3x fa-envelope mr-4"></i>
+                    <span class="mb-0">info@company.co</span>
+                </a>
+            </div>
+            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+                <a href="https://www.google.com/maps" class="tm-contact-item-link">
+                    <i class="fas fa-3x fa-map-marker-alt mr-4"></i>
+                    <span class="mb-0">Location on Maps</span>
+                </a>
+            </div>
+            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+                <form action="" method="get">
+                    <input name="email" type="email" placeholder="Subscribe your email" class="tm-input" required />
+                    <button type="submit" class="btn tm-btn-submit">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <footer class="text-center small tm-footer">
+        <p class="mb-0">
+            Copyright &copy; 2023 Cup Company
+
+            - Design: <a rel="nofollow" href="#" class="tm-footer-link">Cảnh Hùng</a>
+        </p>
+    </footer>
+</section>
+
+<script>
+    function GiaiDau(giaiDauId) {
+        console.log(giaiDauId)
+    $.ajax({
+        url: "/Home/GiaiDau?giaiDauId=" + giaiDauId,
+        method: "POST",
+        dataType: 'html',
+        success: function (result) {
+            $("#lichthidau").html(result);
+            console.log(result)
+        }
+    });
+    };
+</script>
